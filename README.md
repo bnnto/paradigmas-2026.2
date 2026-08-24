@@ -3,3 +3,5 @@
 # Paradigmas de Linguagens de Progamação
 
 Repositório reservado para códigos exemplos da linguagem de progamação Kotlin.
+
+$env:Path += ";C:\kotlinc\bin"
