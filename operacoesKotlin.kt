@@ -1,8 +1,8 @@
 fun main(){
-    // tipos numericos
+    // tipos numéricos
 
     // operacoes aritmeticas
-    
+
     // definindo o tipo explicitamente
     var valor: Int = 100
     valor = valor + 20
