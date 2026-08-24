@@ -1,0 +1,1 @@
+# paradigmas-2026.2
