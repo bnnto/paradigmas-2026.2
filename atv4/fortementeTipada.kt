@@ -22,6 +22,6 @@ nomeAnulavel = null // OK, pois o tipo permite null
 // portanto, Kotlin distingue tipos anuláveis (String?) de não anuláveis (String), evitando o NullPointerException
 
  
-// inferência de tipos não é o mesmo que tipagem fraca
+// Inferência de tipos não é o mesmo que tipagem fraca
 var valor = 10       // inferido como Int
 // valor = "texto"   // ERRO: tipo já fixado como Int
