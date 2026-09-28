@@ -1,5 +1,3 @@
-
-
 // declaracao de variáveis 
 val nome: String = "Lorenna" // imutável
 var contador: Int = 0 // mutável
